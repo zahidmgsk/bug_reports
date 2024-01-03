@@ -1,11 +1,11 @@
 name: "🐞 Bug Report 🐞"
-description: "Create a BlissRoms bug report"
+description: "Create a ZEE_Roms bug report"
 title: "[BUG] <!-- Add your summary of the bug faced here -->"
 labels: ["bug"]
 body:
   - attributes:
       value: |
-        # BlissRoms Issue Tracker
+        # ZEE_Roms Issue Tracker
 
         **What NOT to report**
         - Bugs in unofficial builds or anything not downloaded from our official portal
@@ -37,8 +37,8 @@ body:
       required: true
 
   - attributes:
-      description: "Enter the build date of BlissRoms (e.g., Bliss-v15.0-sunfish-OFFICIAL-gapps-20220102)"
-      label: "Bliss build"
+      description: "Enter the build date of ZEE_Roms (e.g., ROM_Name-v15.0-sunfish-OFFICIAL-gapps-20220102)"
+      label: "ROM_Name build"
 
     type: input
     validations:
@@ -55,7 +55,7 @@ body:
   - attributes:
       description: "Provide detailed steps to reproduce the issue. Include any necessary prerequisites and specific actions to trigger the problem"
       label: "Steps to reproduce"
-      placeholder: "Step 1. Go to Bliss settings. Step 2. ..."
+      placeholder: "Step 1. Go to ROM settings. Step 2. ..."
 
     type: textarea
     validations:
@@ -115,7 +115,7 @@ body:
           required: true
         - label: "I have attached any necessary screenshots or files."
           required: true
-        - label: "I have tested the latest BlissRoms version to confirm if the issue still exists."
+        - label: "I have tested the latest ZEE_Roms version to confirm if the issue still exists."
           required: true
         - label: "I have filled out all of the requested information in this issue properly."
           required: true
