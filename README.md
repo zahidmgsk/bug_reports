@@ -1,4 +1,4 @@
-# My_Roms Bug Reports and Features Tracker
+# ZEE_Roms Bug Reports and Features Tracker
 
 Welcome to the ZEE_Roms Bug Reports and Features Tracker repository! This repository is dedicated to collecting bug reports and feature requests related to the BlissRoms Project.
 
