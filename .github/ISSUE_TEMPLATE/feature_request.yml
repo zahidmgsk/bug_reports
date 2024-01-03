@@ -1,5 +1,5 @@
 name: Feature request
-description: Suggest a feature for BlissRoms
+description: Suggest a feature for ZEE_Roms
 title: "[FR] Add [Brief Feature Description]"
 labels: [feature-request]
 assignees: []
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        # BlissRoms Features Tracker
+        # ZEE_Roms Features Tracker
 
         **What NOT to request here**
         - If something on our ROM is broken, this is not the right template.
@@ -17,15 +17,15 @@ body:
         - Asking for device support.
 
         **Feature Guidelines**
-        - Please ensure that your feature request aligns with the scope and goals of BlissRoms.
+        - Please ensure that your feature request aligns with the scope and goals of ZEE_Roms.
         - Provide a clear and concise description of the feature you would like to see.
-        - Consider the feasibility and compatibility with BlissRoms.
+        - Consider the feasibility and compatibility with ZEE_Roms.
         - Include any relevant information or considerations that can help evaluate the feature request.
 
   - type: textarea
     attributes:
       label: Describe the feature
-      description: Please describe what feature you would like to see in BlissRoms.
+      description: Please describe what feature you would like to see in ZEE_Roms.
     validations:
       required: true
 
