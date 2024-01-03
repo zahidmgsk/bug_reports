@@ -1,6 +1,6 @@
 # ZEE_Roms Bug Reports and Features Tracker
 
-Welcome to the ZEE_Roms Bug Reports and Features Tracker repository! This repository is dedicated to collecting bug reports and feature requests related to the BlissRoms Project.
+Welcome to the ZEE_Roms Bug Reports and Features Tracker repository! This repository is dedicated to collecting bug reports and feature requests related to the ZEE_Roms Project.
 
 ## Bug Reports
 
@@ -21,7 +21,7 @@ Please note the following before submitting a bug report:
 To submit a feature request, please follow these steps:
 1. Go to the "Issues" tab of this repository.
 2. Click on "New Issue" and select the "Feature Request" template.
-3. Clearly describe the feature you would like to see in BlissRoms and provide any supporting information or examples.
+3. Clearly describe the feature you would like to see in ZEE_Roms and provide any supporting information or examples.
 4. Consider the feasibility and compatibility of the feature with ZEE_Roms.
 5. Be open to feedback and discussions from the development team and other users.
 
@@ -30,4 +30,4 @@ To submit a feature request, please follow these steps:
 - Respect the decisions of the development team regarding feature implementation.
 - Seek help and support through official communication channels such as our Telegram chats.
 
-Have fun and Let's work together to squash bugs and create a great experience with BlissRoms!
+Have fun and Let's work together to squash bugs and create a great experience with ZEE_Roms!
