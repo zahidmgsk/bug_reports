@@ -25,7 +25,7 @@ To submit a feature request, please follow these steps:
 4. Consider the feasibility and compatibility of the feature with ZEE_Roms.
 5. Be open to feedback and discussions from the development team and other users.
 
-   Tamplete Credits to BlissROMs
+
 
 ## General Guidelines:
 - Only use this repository for bug reports and feature requests. Other types of issues will be removed.
@@ -33,3 +33,5 @@ To submit a feature request, please follow these steps:
 - Seek help and support through official communication channels such as our Telegram chats.
 
 Have fun and Let's work together to squash bugs and create a great experience with ZEE_Roms!
+
+## Tamplete Credits to BlissROMs
