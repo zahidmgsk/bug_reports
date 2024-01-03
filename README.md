@@ -22,7 +22,7 @@ To submit a feature request, please follow these steps:
 1. Go to the "Issues" tab of this repository.
 2. Click on "New Issue" and select the "Feature Request" template.
 3. Clearly describe the feature you would like to see in BlissRoms and provide any supporting information or examples.
-4. Consider the feasibility and compatibility of the feature with BlissRoms.
+4. Consider the feasibility and compatibility of the feature with ZEE_Roms.
 5. Be open to feedback and discussions from the development team and other users.
 
 ## General Guidelines:
