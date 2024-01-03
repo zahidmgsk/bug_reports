@@ -1,4 +1,4 @@
-name: BlissRoms Stale Issue Workflow
+name: ZEE_Roms Stale Issue Workflow
 
 on:
   schedule:
